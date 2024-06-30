@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GFG_DSA.iml" filepath="$PROJECT_DIR$/GFG_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0001_Count_No_Of_Digits_In_A_Number/P0001_Count_No_Of_Digits_In_A_Number.iml" filepath="$PROJECT_DIR$/P0001_Count_No_Of_Digits_In_A_Number/P0001_Count_No_Of_Digits_In_A_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0002_Palindromic_Numbers/P0002_Palindromic_Numbers.iml" filepath="$PROJECT_DIR$/P0002_Palindromic_Numbers/P0002_Palindromic_Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/P001_SumOfNNaturalNumbers/P001_SumOfNNaturalNumbers.iml" filepath="$PROJECT_DIR$/P001_SumOfNNaturalNumbers/P001_SumOfNNaturalNumbers.iml" />
     </modules>
   </component>
