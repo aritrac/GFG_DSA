@@ -7,7 +7,7 @@ package moreEfficientApproach;
 public class ProblemTester {
     public static void main(String[] args) {
         System.out.print("the divisors of n in sorted manner = ");
-        printDivisorsSorted(1045);
+        printDivisorsSorted(176);
     }
 
     public static void printDivisorsSorted(int n){
