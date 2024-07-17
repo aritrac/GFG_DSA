@@ -10,6 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/P0005_Find_GCD_Of_Two_Numbers/P0005_Find_GCD_Of_Two_Numbers.iml" filepath="$PROJECT_DIR$/P0005_Find_GCD_Of_Two_Numbers/P0005_Find_GCD_Of_Two_Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0006_LCM_Of_Two_Numbers/P0006_LCM_Of_Two_Numbers.iml" filepath="$PROJECT_DIR$/P0006_LCM_Of_Two_Numbers/P0006_LCM_Of_Two_Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0007_Check_For_Prime_Numbers/P0007_Check_For_Prime_Numbers.iml" filepath="$PROJECT_DIR$/P0007_Check_For_Prime_Numbers/P0007_Check_For_Prime_Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0008_Print_Prime_Factors_Of_A_Number/P0008_Print_Prime_Factors_Of_A_Number.iml" filepath="$PROJECT_DIR$/P0008_Print_Prime_Factors_Of_A_Number/P0008_Print_Prime_Factors_Of_A_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0009_Print_All_Divisors_Of_A_Number/P0009_Print_All_Divisors_Of_A_Number.iml" filepath="$PROJECT_DIR$/P0009_Print_All_Divisors_Of_A_Number/P0009_Print_All_Divisors_Of_A_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0010_Seive_Of_Eratosthenes/P0010_Seive_Of_Eratosthenes.iml" filepath="$PROJECT_DIR$/P0010_Seive_Of_Eratosthenes/P0010_Seive_Of_Eratosthenes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0011_ComputeXToPowerOfN/P0011_ComputeXToPowerOfN.iml" filepath="$PROJECT_DIR$/P0011_ComputeXToPowerOfN/P0011_ComputeXToPowerOfN.iml" />
       <module fileurl="file://$PROJECT_DIR$/P001_SumOfNNaturalNumbers/P001_SumOfNNaturalNumbers.iml" filepath="$PROJECT_DIR$/P001_SumOfNNaturalNumbers/P001_SumOfNNaturalNumbers.iml" />
     </modules>
   </component>
