@@ -3,6 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GFG_DSA.iml" filepath="$PROJECT_DIR$/GFG_DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematics_PR001_Absolute_Value/Mathematics_PR001_Absolute_Value.iml" filepath="$PROJECT_DIR$/Mathematics_PR001_Absolute_Value/Mathematics_PR001_Absolute_Value.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematics_PR002_Convert_Celsius_To_Farenheit/Mathematics_PR002_Convert_Celsius_To_Farenheit.iml" filepath="$PROJECT_DIR$/Mathematics_PR002_Convert_Celsius_To_Farenheit/Mathematics_PR002_Convert_Celsius_To_Farenheit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematics_PR003_Quadratic_Equation_Roots/Mathematics_PR003_Quadratic_Equation_Roots.iml" filepath="$PROJECT_DIR$/Mathematics_PR003_Quadratic_Equation_Roots/Mathematics_PR003_Quadratic_Equation_Roots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematics_PR004_Factorial_Of_A_Number/Mathematics_PR004_Factorial_Of_A_Number.iml" filepath="$PROJECT_DIR$/Mathematics_PR004_Factorial_Of_A_Number/Mathematics_PR004_Factorial_Of_A_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematics_PR005_Digits_In_A_Factorial/Mathematics_PR005_Digits_In_A_Factorial.iml" filepath="$PROJECT_DIR$/Mathematics_PR005_Digits_In_A_Factorial/Mathematics_PR005_Digits_In_A_Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematics_PR006_Primality_Test/Mathematics_PR006_Primality_Test.iml" filepath="$PROJECT_DIR$/Mathematics_PR006_Primality_Test/Mathematics_PR006_Primality_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mathematics_PR007_Exactly_Three_Divisors/Mathematics_PR007_Exactly_Three_Divisors.iml" filepath="$PROJECT_DIR$/Mathematics_PR007_Exactly_Three_Divisors/Mathematics_PR007_Exactly_Three_Divisors.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0001_Count_No_Of_Digits_In_A_Number/P0001_Count_No_Of_Digits_In_A_Number.iml" filepath="$PROJECT_DIR$/P0001_Count_No_Of_Digits_In_A_Number/P0001_Count_No_Of_Digits_In_A_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0002_Palindromic_Numbers/P0002_Palindromic_Numbers.iml" filepath="$PROJECT_DIR$/P0002_Palindromic_Numbers/P0002_Palindromic_Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0003_Factorial_Of_A_Number/P0003_Factorial_Of_A_Number.iml" filepath="$PROJECT_DIR$/P0003_Factorial_Of_A_Number/P0003_Factorial_Of_A_Number.iml" />
