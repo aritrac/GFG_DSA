@@ -1,4 +1,4 @@
-package approach;
+package efficientApproach;
 
 public class ProblemTester {
     public static void main(String[] args) {

@@ -26,6 +26,8 @@
       <module fileurl="file://$PROJECT_DIR$/P0010_Seive_Of_Eratosthenes/P0010_Seive_Of_Eratosthenes.iml" filepath="$PROJECT_DIR$/P0010_Seive_Of_Eratosthenes/P0010_Seive_Of_Eratosthenes.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0011_ComputeXToPowerOfN/P0011_ComputeXToPowerOfN.iml" filepath="$PROJECT_DIR$/P0011_ComputeXToPowerOfN/P0011_ComputeXToPowerOfN.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0012_ComputeXToPowerNUsingBinaryExponentiation/P0012_ComputeXToPowerNUsingBinaryExponentiation.iml" filepath="$PROJECT_DIR$/P0012_ComputeXToPowerNUsingBinaryExponentiation/P0012_ComputeXToPowerNUsingBinaryExponentiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0013_Check_If_K_Bit_Is_Set/P0013_Check_If_K_Bit_Is_Set.iml" filepath="$PROJECT_DIR$/P0013_Check_If_K_Bit_Is_Set/P0013_Check_If_K_Bit_Is_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0014_Count_Set_Bits_In_A_Number/P0014_Count_Set_Bits_In_A_Number.iml" filepath="$PROJECT_DIR$/P0014_Count_Set_Bits_In_A_Number/P0014_Count_Set_Bits_In_A_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/P001_SumOfNNaturalNumbers/P001_SumOfNNaturalNumbers.iml" filepath="$PROJECT_DIR$/P001_SumOfNNaturalNumbers/P001_SumOfNNaturalNumbers.iml" />
     </modules>
   </component>
