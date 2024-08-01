@@ -28,6 +28,8 @@
       <module fileurl="file://$PROJECT_DIR$/P0012_ComputeXToPowerNUsingBinaryExponentiation/P0012_ComputeXToPowerNUsingBinaryExponentiation.iml" filepath="$PROJECT_DIR$/P0012_ComputeXToPowerNUsingBinaryExponentiation/P0012_ComputeXToPowerNUsingBinaryExponentiation.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0013_Check_If_K_Bit_Is_Set/P0013_Check_If_K_Bit_Is_Set.iml" filepath="$PROJECT_DIR$/P0013_Check_If_K_Bit_Is_Set/P0013_Check_If_K_Bit_Is_Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0014_Count_Set_Bits_In_A_Number/P0014_Count_Set_Bits_In_A_Number.iml" filepath="$PROJECT_DIR$/P0014_Count_Set_Bits_In_A_Number/P0014_Count_Set_Bits_In_A_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0015_Check_If_Number_Is_Power_Of_Two/P0015_Check_If_Number_Is_Power_Of_Two.iml" filepath="$PROJECT_DIR$/P0015_Check_If_Number_Is_Power_Of_Two/P0015_Check_If_Number_Is_Power_Of_Two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0016_Find_Only_Odd_Occurring_Number_In_Array/P0016_Find_Only_Odd_Occurring_Number_In_Array.iml" filepath="$PROJECT_DIR$/P0016_Find_Only_Odd_Occurring_Number_In_Array/P0016_Find_Only_Odd_Occurring_Number_In_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/P001_SumOfNNaturalNumbers/P001_SumOfNNaturalNumbers.iml" filepath="$PROJECT_DIR$/P001_SumOfNNaturalNumbers/P001_SumOfNNaturalNumbers.iml" />
     </modules>
   </component>
