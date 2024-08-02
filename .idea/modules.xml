@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitMagic_PR001_Kth_Bit_Is_Set_Or_Not/BitMagic_PR001_Kth_Bit_Is_Set_Or_Not.iml" filepath="$PROJECT_DIR$/BitMagic_PR001_Kth_Bit_Is_Set_Or_Not/BitMagic_PR001_Kth_Bit_Is_Set_Or_Not.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitMagic_PR002_First_Set_Bit/BitMagic_PR002_First_Set_Bit.iml" filepath="$PROJECT_DIR$/BitMagic_PR002_First_Set_Bit/BitMagic_PR002_First_Set_Bit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitMagic_PR003_Count_Total_Set_Bits/BitMagic_PR003_Count_Total_Set_Bits.iml" filepath="$PROJECT_DIR$/BitMagic_PR003_Count_Total_Set_Bits/BitMagic_PR003_Count_Total_Set_Bits.iml" />
       <module fileurl="file://$PROJECT_DIR$/GFG_DSA.iml" filepath="$PROJECT_DIR$/GFG_DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mathematics_PR001_Absolute_Value/Mathematics_PR001_Absolute_Value.iml" filepath="$PROJECT_DIR$/Mathematics_PR001_Absolute_Value/Mathematics_PR001_Absolute_Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mathematics_PR002_Convert_Celsius_To_Farenheit/Mathematics_PR002_Convert_Celsius_To_Farenheit.iml" filepath="$PROJECT_DIR$/Mathematics_PR002_Convert_Celsius_To_Farenheit/Mathematics_PR002_Convert_Celsius_To_Farenheit.iml" />
