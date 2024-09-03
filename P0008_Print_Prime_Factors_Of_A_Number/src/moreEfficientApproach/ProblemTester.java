@@ -28,7 +28,7 @@ public class ProblemTester {
                 n = n / i;
             }
             while(n % (i+2) == 0){
-                System.out.print(i + " ");
+                System.out.print((i+2) + " ");
                 n = n / (i+2);
             }
         }

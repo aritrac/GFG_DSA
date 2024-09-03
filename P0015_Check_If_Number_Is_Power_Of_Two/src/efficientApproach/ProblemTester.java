@@ -10,6 +10,7 @@ public class ProblemTester {
         if(N == 0){
             return false;
         }
-        return ((N & (N-1)) == 0);
+        return ((N & (N-1)) == 0); //Exactly 1 bit is set, then it is a power of 2, if more than 1 bit is set, its
+        //not a power of 2
     }
 }
