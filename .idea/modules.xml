@@ -49,6 +49,8 @@
       <module fileurl="file://$PROJECT_DIR$/P0020_Convert_Decimal_To_Binary_Using_Recursion/P0020_Convert_Decimal_To_Binary_Using_Recursion.iml" filepath="$PROJECT_DIR$/P0020_Convert_Decimal_To_Binary_Using_Recursion/P0020_Convert_Decimal_To_Binary_Using_Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0021_Print_N_To_1_Recursively/P0021_Print_N_To_1_Recursively.iml" filepath="$PROJECT_DIR$/P0021_Print_N_To_1_Recursively/P0021_Print_N_To_1_Recursively.iml" />
       <module fileurl="file://$PROJECT_DIR$/P0022_Print_1_To_N_Recursively/P0022_Print_1_To_N_Recursively.iml" filepath="$PROJECT_DIR$/P0022_Print_1_To_N_Recursively/P0022_Print_1_To_N_Recursively.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0023_Print_Factorial_Of_A_Positive_Number/P0023_Print_Factorial_Of_A_Positive_Number.iml" filepath="$PROJECT_DIR$/P0023_Print_Factorial_Of_A_Positive_Number/P0023_Print_Factorial_Of_A_Positive_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0024_Sum_Of_First_N_Natural_Numbers_Using_Recursion/P0024_Sum_Of_First_N_Natural_Numbers_Using_Recursion.iml" filepath="$PROJECT_DIR$/P0024_Sum_Of_First_N_Natural_Numbers_Using_Recursion/P0024_Sum_Of_First_N_Natural_Numbers_Using_Recursion.iml" />
     </modules>
   </component>
 </project>
